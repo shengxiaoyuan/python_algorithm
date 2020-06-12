@@ -1,5 +1,5 @@
 # Definition for singly-linked list.
-from com.algorithm.listode import ListNode
+from com.algorithm.node import ListNode
 
 
 class Solution(object):

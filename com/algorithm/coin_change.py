@@ -32,5 +32,4 @@ class Solution(object):
 if __name__ == '__main__':
     base_coins = [1, 2, 5, 10]
     print(Solution().coinChange(base_coins, 23))
-    for  i in range(1,11,2):
-        print(i)
+    
