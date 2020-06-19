@@ -32,4 +32,4 @@ class Solution(object):
 if __name__ == '__main__':
     base_coins = [1, 2, 5, 10]
     print(Solution().coinChange(base_coins, 23))
-    
+
